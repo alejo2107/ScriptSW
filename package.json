@@ -1,0 +1,17 @@
+{
+  "name": "original",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cP101.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.0"
+  }
+}
